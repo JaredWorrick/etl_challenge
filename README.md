@@ -13,3 +13,6 @@ The instructions for this mini project are divided into the following subsection
 - Create the Crowdfunding Database
 
 All files that follow these four steps are located in the ETL_Challenge folder. 
+
+
+Worked on this Project with James Senger 
